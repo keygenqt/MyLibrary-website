@@ -43,3 +43,4 @@ config/db_work.php
 /console/runtime/
 /admin/web/assets/
 /frontend/web/assets/
+.backupzout
