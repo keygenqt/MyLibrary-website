@@ -74,7 +74,7 @@
         },
         {
             "type": "path",
-            "url": "/home/keygenqt/Documents/MyLibrary/admin-panel/packages/yii2-sb-admin-2-plus"
+            "url": "./packages/yii2-sb-admin-2-plus"
         }
     ]
 }
