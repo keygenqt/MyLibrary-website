@@ -11,7 +11,7 @@ Find a rare book among users MyLibrary.
 * [Admin Panel](https://mylibraryapp.com/admin)
 
 ### Website
-![picture](data/preview.png)
+![picture](data/preview-website.png)
 
 ### Admin Panel
 ![picture](data/preview-admin.png)
