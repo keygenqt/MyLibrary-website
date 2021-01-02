@@ -1,0 +1,5 @@
+@media (max-width: 768px) {
+    .sidebar .sidebar-brand {
+        justify-content: center !important;
+    }
+}

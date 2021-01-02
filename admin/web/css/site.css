@@ -1,0 +1,64 @@
+html,
+body {
+    height: 100%;
+}
+
+html, body, .container {
+    height: 100%;
+}
+
+.bg-login-image {
+    background-image: url('../images/login.jpg');
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.alert {
+    margin-bottom: 20px;
+}
+
+.alert .close {
+    padding-top: 10px;
+}
+
+.alert .close:focus {
+    padding-top: 10px;
+    outline: none;
+}
+
+.alert-danger div {
+    font-size: 14px;
+}
+
+.alert-danger div p {
+    margin-bottom: 5px;
+}
+
+.alert-danger div ul {
+    margin-bottom: 0;
+}
+
+.yii2-image-ajax .image-data {
+    height: 175px;
+}
+
+.btn-green-image-ajax {
+    color: white;
+    background-color: #1cc88a;
+    border-color: #1cc88a;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 0.35rem;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
