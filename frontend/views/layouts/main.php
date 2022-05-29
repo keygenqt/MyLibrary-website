@@ -72,7 +72,8 @@ AppAsset::register($this);
                 <div class="container-cell cell-footer">
                     <div class="container-body">
                         <div class="index-footer-body">
-                            <div class="index-footer-text">If you have any questions, please contact. I will always be happy to help, if possible.
+                            <div class="index-footer-text">
+                                If you have any questions, please contact. I will always be happy to help, if possible.
                                 <div class="links"><a href="mailto:dev@keygenqt.com">dev@keygenqt.com</a></div>
                             </div>
                         </div>

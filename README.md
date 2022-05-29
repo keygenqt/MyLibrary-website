@@ -7,8 +7,8 @@ Find a rare book among users MyLibrary.
 
 **It's website part - [Yii 2.0](https://www.yiiframework.com/)**
 
-* [Website](https://mylibraryapp.com/)
-* [Admin Panel](https://mylibraryapp.com/admin)
+* [Website](https://mylibraryapp.keygenqt.com/)
+* [Admin Panel](https://mylibraryapp.keygenqt.com/admin)
 
 ### Website
 ![picture](data/preview-website.png)
